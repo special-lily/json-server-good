@@ -1,0 +1,153 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "name": "张三",
+            "tel": "15223810923"
+        },
+        {
+            "id": 2,
+            "name": "李四",
+            "tel": "15223810923"
+        },
+        {
+            "id": 3,
+            "name": "王二",
+            "tel": "15223810923"
+        },
+        {
+            "id": 4,
+            "name": "陈五",
+            "tel": "15223810923"
+        },
+        {
+            "name": "赵六",
+            "tel": "123454323",
+            "id": 5
+        }
+    ],
+    "list2": [
+        {
+            "name": "abcde",
+            "tel": "123454323",
+            "id": 5
+        },
+        {
+            "id": 4,
+            "name": "你好2121",
+            "tel": "15223810923"
+        }
+    ],
+    "rightsList": {
+        "list" : [
+            {
+                "equitiesId": 1,
+                "title": "15天免费借阅",
+                "status": 1,
+                "theme": "freeread",
+                "content": "会员享受全店图书15天内免押金免费借阅，超过15天视为购买"
+            },
+            {
+                "equitiesId": 2,
+                "title": "名家见面会",
+                "status": 1,
+                "theme": "famousmeet",
+                "content": "京东独家签约作家、作者城市见面会，每月一期"
+            },
+            {
+                "equitiesId": 3,
+                "title": "会员特价",
+                "status": 1,
+                "theme": "specialoffer",
+                "content": "会员享受全店图书15天内免押金免费借阅，超过15天视为购买"
+            },
+            {
+                "equitiesId": 4,
+                "title": "读书会活动",
+                "status": 1,
+                "theme": "readactivity",
+                "content": "会员享受全店图书15天内免押金免费借阅，超过15天视为购买"
+            },
+            {
+                "equitiesId": 5,
+                "title": "生日特权",
+                "status": 1,
+                "theme": "birthday",
+                "content": "会员享受全店图书15天内免押金免费借阅，超过15天视为购买"
+            },
+            {
+                "equitiesId": 6,
+                "title": "旧书置换",
+                "status": 1,
+                "theme": "oldbooks",
+                "content": "会员享受全店图书15天内免押金免费借阅，超过15天视为购买"
+            },
+            {
+                "equitiesId": 7,
+                "title": "理财顾问",
+                "status": 1,
+                "theme": "financial",
+                "content": "会员享受全店图书15天内免押金免费借阅，超过15天视为购买"
+            },
+            {
+                "equitiesId": 8,
+                "title": "预约购物",
+                "status": 1,
+                "theme": "shopping",
+                "content": "会员享受全店图书15天内免押金免费借阅，超过15天视为购买"
+            },
+            {
+                "equitiesId": 9,
+                "title": "餐饮折扣",
+                "status": 1,
+                "theme": "fooddiscount",
+                "content": "会员享受全店图书15天内免押金免费借阅，超过15天视为购买"
+            },
+            {
+                "equitiesId": 10,
+                "title": "会员课程",
+                "status": 1,
+                "theme": "course",
+                "content": "会员享受全店图书15天内免押金免费借阅，超过15天视为购买"
+            }
+        ]
+    },
+    "cardData": {
+        "list": [
+            {
+                "memberId": 12,
+                "memberName": "tuling",
+                "card": "6222888899990000235",
+                "cardId": 2212,
+                "expiredDate": "2018-04-20 23:59:59"
+            }
+        ]
+    },
+    "cardData1": {
+        "list": []
+    },
+    "encryCode": {
+        "code": "000000",
+        "data": "huiyuanshenfenmiwen"
+    },
+    "barCode": {
+        "code": "000000",
+        "data": "huhuhukoko"
+    },
+    "checkVerified": {
+        "code": "000000",
+        "data": "success"
+    },
+    "listMemberGoods": {
+        "list": [
+            {
+                "id": 123,
+                "name": "会员商品名",
+                "price": 99.99,
+                "originalPrice": 199.99,
+                "member_id": 1235556,
+                "status": 1
+            }
+        ]
+    }
+}
